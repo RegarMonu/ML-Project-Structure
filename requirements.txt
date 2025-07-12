@@ -1,0 +1,5 @@
+-e .
+pandas 
+numpy
+seaborn
+ #It is not a library. It is automation key word which automatically trigger setup.py when we add any lib here.
